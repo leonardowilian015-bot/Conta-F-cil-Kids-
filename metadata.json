@@ -1,0 +1,5 @@
+{
+  "name": "Conta Fácil Kids",
+  "description": "Matemática fácil, aprender feliz. Aplicativo inclusivo para o ensino das quatro operações básicas com foco em acessibilidade e reforço positivo.",
+  "requestFramePermissions": ["microphone"]
+}
